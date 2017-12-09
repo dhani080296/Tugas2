@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas2</string>
+    <string name="activity2_name">Activity 2</string>
+    <string name="text_header">Text header</string>
+    <string name="editText_main">EditText Main</string>
+    <string name="button_second">Button Second</string>
+    <string name="editText_second">Edit Text second</string>
+    <string name="text_header_reply">Text header reply</string>
+    <string name="Text_Edit">Text edit</string>
+</resources>
